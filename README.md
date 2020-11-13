@@ -70,7 +70,7 @@ El objetivo de modificar este método, era que se llamaba 1 vez por cada enemigo
 
 # Cuarto cambio
 
-El cuarto cambio que se hizo, fue modificar el método *the_force()* de la clase "Baby". Puesto que al igual que en el inciso 3), se tenía que llamar una vez por cada enemigo que existía, y como habían 2 enemigos, se llamaba 2 veces.
+El cuarto cambio que se hizo, fue modificar el método *the_force()* de la clase "Baby". Puesto que al igual que en cambio 3, se tenía que llamar una vez por cada enemigo que existía, y como habían 2 enemigos, se llamaba 2 veces.
 
 Actualmente, sólo se llama una vez, en la línea 90.
 
@@ -80,4 +80,4 @@ Yo hubiera creado un archivo especial para agregar las funciones que fueron menc
 
 Lo mismo con las clases, hubiera creado un archivo para cada clase, y las hubiera importado al código main.
 
-Espero consideren este pensamiento mencionado, aunque no se hizo, ya que a mi parecer, en una empresa real, este iniciso 5) sería lo correcto y más bonito.
+Espero consideren este pensamiento mencionado, aunque no se hizo, ya que a mi parecer, en una empresa real, este iniciso quinto cambio sería lo correcto
